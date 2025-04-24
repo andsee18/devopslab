@@ -1,0 +1,13 @@
+setup.py
+src/devops_lab5.egg-info/PKG-INFO
+src/devops_lab5.egg-info/SOURCES.txt
+src/devops_lab5.egg-info/dependency_links.txt
+src/devops_lab5.egg-info/requires.txt
+src/devops_lab5.egg-info/top_level.txt
+src/fake_db/__init__.py
+src/fake_db/database.py
+src/routers/__init__.py
+src/routers/user.py
+src/schemas/__init__.py
+src/schemas/user.py
+tests/test_user.py
